@@ -24,5 +24,5 @@ Your search query: warashiZ
 # Your search query: Lumine,Flower // query with multiple tags
 ```
 
-For more info, read at [here](https://www.zerochan.net/api)
+Please follow Zerochan's API Policy when using the CLI i.e. running more CLI instances than the rate limit is allowed. For more info, read at [here](https://www.zerochan.net/api)
 
