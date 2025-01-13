@@ -15,16 +15,16 @@ After Installation you can run:
 python zerochan.py
 ```
 
-Output
+CLI Input:
 ```bash
 Your project name (e.g 'My Image Downloader'): My Image Downloader # First time run
 Your Zerochan Username: Username1234 # First time run
-Your search query: warashiZ 
-# Your search query: Star+Rail // query with space
-# Your search query: Lumine,Flower // query with multiple tags
+Your search query: warashiZ # with single word
+# Your search query: Star+Rail // with space
+# Your search query: Lumine,Flower // with multiple tags
 ```
 Images will be saved in the `images` folder
 
-
-Please follow Zerochan's API Policy when using the CLI i.e. running more CLI instances than the rate limit is allowed. For more info, read at [here](https://www.zerochan.net/api)
+## Reminder
+Please follow Zerochan's API Policy when using the CLI i.e. not running the CLI instances more than the rate limit is allowed. For more info, read at [here](https://www.zerochan.net/api).
 
