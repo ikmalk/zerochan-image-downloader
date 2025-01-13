@@ -23,6 +23,8 @@ Your search query: warashiZ
 # Your search query: Star+Rail // query with space
 # Your search query: Lumine,Flower // query with multiple tags
 ```
+Images will be saved in the `images` folder
+
 
 Please follow Zerochan's API Policy when using the CLI i.e. running more CLI instances than the rate limit is allowed. For more info, read at [here](https://www.zerochan.net/api)
 
