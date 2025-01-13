@@ -5,6 +5,7 @@ Simple python CLI for downloading Zerochan images from query utilizing python re
 ## Installation:
 ```bash
 git clone https://github.com/ikmalk/zerochan-image-downloader.git
+cd zerochan-image-downloader
 pip install -r requirements.txt 
 ```
 
